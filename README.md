@@ -1,0 +1,5 @@
+- 👋 Hello, I am Ali Nakhdi
+- 👀 I am interested in programming
+- 🌱 I am currently learning Python
+- 📫 How to contact me: AliNaghdi2006@gmail.com
+- ⚡ Fun fact: I program on a mobile phone
