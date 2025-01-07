@@ -1,4 +1,4 @@
-- 👋 Hello, I am Ali Nakhdi
+- 👋 Hello, I am Ali Naghdi
 - 👀 I am interested in programming
 - 🌱 I am currently learning Python
 - 📫 How to contact me: AliNaghdi2006@gmail.com
